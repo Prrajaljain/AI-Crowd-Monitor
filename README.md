@@ -46,22 +46,5 @@ pip install ultralytics opencv-python cvzone
 
 python crowd_monitor.py
 
-💡 Real-World Applications
-
-This system is designed as a foundational module for:
-
-Smart Cities & Transport: Monitoring crowd levels at train stations or bus terminals.
-
-Event Safety: Preventing stampedes at religious gatherings, festivals, and concerts.
-
-Retail Analytics: Tracking footfall and queue lengths in shopping centers.
-
-🔮 Future Upgrades Roadmap
-
-[ ] Region of Interest (ROI): Define restricted zones for targeted counting.
-
-[ ] Data Logging: Export timestamped crowd density data to an Excel/CSV file.
-
-[ ] Directional Tracking: Detect if people are entering or exiting an area.
 
 
