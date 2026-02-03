@@ -1,0 +1,10 @@
+# Ignore YOLO model weights
+*.pt
+
+# Ignore video files
+*.mp4
+*.avi
+*.mov
+
+# Ignore Python cache
+__pycache__/
